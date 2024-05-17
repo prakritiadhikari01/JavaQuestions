@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "questionText": "What keyword is used to create a subclass in Java?",
+      "options": ["class", "extends", "implements", "interface"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which method must be implemented by all threads?",
+      "options": ["start", "run", "stop", "main"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What is the size of an int variable in Java?",
+      "options": ["16", "32", "64", "128"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which exception is thrown when a division by zero occurs?",
+      "options": [
+        "IOException",
+        "NullPointerException",
+        "ArithmeticException",
+        "ClassNotFoundException"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Which collection class allows you to access its elements by a unique key?",
+      "options": ["ArrayList", "HashSet", "HashMap", "LinkedList"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "What is the default value of a boolean variable in Java?",
+      "options": ["true", "false", "null", "0"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which keyword is used to prevent inheritance in Java?",
+      "options": ["final", "static", "abstract", "private"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which method is used to compare two strings for equality?",
+      "options": ["equals", "compareTo", "==", "matches"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "What is the return type of the hashCode() method in Java?",
+      "options": ["int", "long", "float", "double"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which class is the superclass of all classes in Java?",
+      "options": ["Object", "Class", "System", "Runtime"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
